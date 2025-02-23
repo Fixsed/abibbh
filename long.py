@@ -14,12 +14,12 @@ import io
 import re
 import threading
 
-bot_token = '6657993397:AAHQD46RV6mkiSDAtFnWiawcx8Rw1ptslek' 
+bot_token = '7888331535:AAFZzdGeIjgZOhUXXj4aHKlZRHLBEVorv4Q' 
 bot = telebot.TeleBot(bot_token)
 
 allowed_users = []
 processes = []
-ADMIN_ID = 6425545597
+ADMIN_ID = 6990643296
 proxy_update_count = 0
 last_proxy_update_time = time.time()
 
